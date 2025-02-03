@@ -6,39 +6,39 @@ When the loop finishes, the program should display the amount that the user is o
 
 Start with a sample run of what the program will look like as comments. 
 
-SAMPLE RUN 1
-Budget for a month USD: 1000.00
-Add expense USD \[Q/q to quit\]: q
-EXPENSES: $0.00
-BUDGET: $1000.00
-BALANCE: $1000.00
-
-SAMPLE RUN 2
-Budget for a month USD: 1000.00
-Add expense USD \[Q/q to quit\]: 10
-Add expense USD \[Q/q to quit\]: 105
-Add expense USD \[Q/q to quit\]: 42
-Add expense USD \[Q/q to quit\]: 7
-Add expense USD \[Q/q to quit\]: q
-EXPENSES: $164.00
-BUDGET: $1000.00
-BALANCE: $836.00
-
-SAMPLE RUN 3
-Budget for a month USD: 1000.00
-Add expense USD \[Q/q to quit\]: 10
-Add expense USD \[Q/q to quit\]: 105
-Add expense USD \[Q/q to quit\]: 42
-Add expense USD \[Q/q to quit\]: 7
-Add expense USD \[Q/q to quit\]: 2000
-Add expense USD \[Q/q to quit\]: q
-EXPENSES: $2164.00
-BUDGET: $1000.00
-BALANCE: $(-1164.00)
-
-Next, write your program in pseudocode as comments. 
-
-Lastly, write Python code. 
+SAMPLE RUN 1    
+Budget for a month USD: 1000.00    
+Add expense USD \[Q/q to quit\]: q  
+EXPENSES: $0.00  
+BUDGET: $1000.00   
+BALANCE: $1000.00   
+   
+SAMPLE RUN 2   
+Budget for a month USD: 1000.00   
+Add expense USD \[Q/q to quit\]: 10   
+Add expense USD \[Q/q to quit\]: 105   
+Add expense USD \[Q/q to quit\]: 42   
+Add expense USD \[Q/q to quit\]: 7   
+Add expense USD \[Q/q to quit\]: q   
+EXPENSES: $164.00   
+BUDGET: $1000.00   
+BALANCE: $836.00   
+   
+SAMPLE RUN 3   
+Budget for a month USD: 1000.00     
+Add expense USD \[Q/q to quit\]: 10   
+Add expense USD \[Q/q to quit\]: 105   
+Add expense USD \[Q/q to quit\]: 42   
+Add expense USD \[Q/q to quit\]: 7   
+Add expense USD \[Q/q to quit\]: 2000   
+Add expense USD \[Q/q to quit\]: q   
+EXPENSES: $2164.00   
+BUDGET: $1000.00   
+BALANCE: $(-1164.00)   
+   
+Next, write your program in pseudocode as comments.    
+  
+Lastly, write Python code.   
 
 Run and test!
 
